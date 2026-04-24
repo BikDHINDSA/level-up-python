@@ -28,6 +28,9 @@
 		"ms-python.vscode-pylance"
 	],
 	"remoteUser": "vscode",
+	"containerUser": "vscode",
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"updateRemoteUserUID": true,
 	"postCreateCommand": "sudo chown -R vscode:vscode .",
 	"onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc"
 
