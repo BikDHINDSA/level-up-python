@@ -9,7 +9,7 @@ def count_words(filepath,top_n=20):
   print(f"Top {top_n} most common words in this file:")
   print("Word\tCount")
   for word,count in counts.most_common(top_n):
-    print(f"{word:<15}{count}")
+    print(f"{word.upper():<15}{count}")
 
 if __name__ == '__main__':
     count_words('shakespeare.txt')
