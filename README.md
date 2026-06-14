@@ -1,4 +1,4 @@
-# Level Up: Python – Challenge Solutions 🐍💻
+# Level Up: Python – Challenge Solutions 🐍
 
 This repository contains my personal solutions to the coding challenges featured in the [LinkedIn Learning](https://www.linkedin.com/learning/level-up-python) course **Level Up: Python** by [Barron Stone](https://linkedin.com)
 The original course provides a series of standalone programming problems designed to stretch algorithmic thinking and reinforce core language mechanics. Every challenge in this repository has been successfully implemented and tested using the Python Standard Library.
@@ -50,13 +50,22 @@ Ensure you have Python 3.x installed locally, or run the project in a cloud sand
 ### Running Locally
 1. Clone this repository to your machine:
    ```bash
-   git clone https://github.com
-   cd YOUR_REPO_NAME
+   git clone https://github.com/BikDHINDSA/level-up-python
+   cd level-up-python
    ```
-2. Run any specific challenge script:
+2. Launch the master execution dashboard:
+   ```bash
+   python main.py
+   ```
+3. Alternatively, you can run individual scripts directly from the module folder:
    ```bash
    python challenges/solve_sudoku.py
    ```
 
 ### Running via GitHub Codespaces
-Simply click the **Code** button at the top right of this repository, select the **Codespaces** tab, and spin up a new cloud environment to run the code directly in your browser.
+1. Click the green **Code** button at the top right of this repository.
+2. Select the **Codespaces** tab and click **Create codespace on main**.
+3. Once your environment boots up, open your terminal and simply run:
+   ```bash
+   python main.py
+   ```
