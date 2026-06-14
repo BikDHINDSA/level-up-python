@@ -16,19 +16,33 @@ The original course provides a series of standalone programming problems designe
 Below is the roadmap of the 15 mini-projects completed and documented within this repo:
 
 **Find Prime Factors** – Efficient mathematical factorization.
+
 **Identify a Palindrome** – String manipulation and sequence checking.
+
 **Sort a String** – Custom sorting logic over textual data.
+
 **Find All List Items** – Target tracking and index extraction within collections.
+
 **Play the Waiting Game** – Time-delayed execution and user interaction.
+
 **Save a Dictionary** – Data serialization and structured file output.
+
 **Schedule a Function** – Basic event loops and execution timing.
+
 **Send an Email** – Leveraging Python network protocols for communication.
+
 **Simulate Dice** – Randomization, statistics, and probability modeling.
+
 **Count Unique Words** – Text parsing, cleaning, and frequency mapping.
+
 **Generate a Password** – Cryptographically secure randomized string assembly.
+
 **Merge CSV Files** – Flat-file I/O handling and data consolidation.
+
 **Solve a Sudoku** – Implementing algorithmic backtracking / heuristics to solve matrix puzzles.
+
 **Build a Zip Archive** – File compression and directory structuring.
+
 **Download Sequential Files** – Network streams and sequential asset fetching.
 
 ---

@@ -13,4 +13,4 @@ def generate_passphrase(num_int):
 
 if __name__ == '__main__':
     print(generate_passphrase(7))
-    print(generate_passphrase(7))
+    print(generate_passphrase(10))
